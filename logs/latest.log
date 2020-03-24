@@ -1,117 +1,53 @@
-[11:33:12] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[11:33:12] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[11:33:12] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[11:33:12] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[11:33:12] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[11:33:12] [Server thread/INFO]: Starting minecraft server version 1.15.2
-[11:33:12] [Server thread/INFO]: Loading properties
-[11:33:12] [Server thread/INFO]: Default game type: SURVIVAL
-[11:33:12] [Server thread/INFO]: Generating keypair
-[11:33:12] [Server thread/INFO]: Starting Minecraft server on *:25565
-[11:33:12] [Server thread/INFO]: Using default channel type
-[11:33:13] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[11:33:13] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[11:33:13] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[11:33:13] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[11:33:13] [Server thread/INFO]: Preparing level "world"
-[11:33:13] [Server thread/INFO]: Reloading ResourceManager: Default
-[11:33:25] [Server thread/INFO]: Loaded 6 recipes
-[11:33:25] [Server thread/INFO]: Loaded 825 advancements
-[11:33:26] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[11:33:27] [Server thread/INFO]: Preparing spawn area: 0%
-[11:33:27] [Server thread/INFO]: Preparing spawn area: 0%
-[11:33:27] [Server thread/INFO]: Preparing spawn area: 0%
-[11:33:27] [Server thread/INFO]: Preparing spawn area: 58%
-[11:33:27] [Server thread/INFO]: Time elapsed: 1861 ms
-[11:33:28] [Server thread/INFO]: Done (14.969s)! For help, type "help"
-[11:43:19] [Server thread/INFO]: Norband[/217.136.25.201:47300] logged in with entity id 212 at (184.64330767651666, 12.875, 327.4737141828043)
-[11:43:19] [Server thread/INFO]: Norband joined the game
-[11:45:21] [Server thread/INFO]: Livier[/192.168.0.25:56853] logged in with entity id 586 at (182.64746919978887, 11.0, 327.30000001192093)
-[11:45:21] [Server thread/INFO]: Livier joined the game
-[11:45:36] [Server thread/INFO]: <Livier> allo
-[11:45:48] [Server thread/INFO]: Norband lost connection: Disconnected
-[11:45:48] [Server thread/INFO]: Norband left the game
-[11:46:03] [Server thread/INFO]: Livier lost connection: Disconnected
-[11:46:03] [Server thread/INFO]: Livier left the game
-[11:46:11] [Server thread/INFO]: Norband[/217.136.25.201:47328] logged in with entity id 691 at (210.1968964177936, 8.0, 326.0975520737852)
-[11:46:11] [Server thread/INFO]: Norband joined the game
-[11:46:27] [Server thread/INFO]: Livier[/192.168.0.25:56877] logged in with entity id 729 at (182.43756947816337, 11.0, 327.30000001192093)
-[11:46:27] [Server thread/INFO]: Livier joined the game
-[11:49:33] [Server thread/INFO]: <Livier> j'arrif pas a tappeler sur messanger
-[11:58:02] [Server thread/INFO]: Livier lost connection: Disconnected
-[11:58:02] [Server thread/INFO]: Livier left the game
-[12:01:08] [Server thread/INFO]: Livier[/192.168.0.25:57086] logged in with entity id 3111 at (202.55553163203578, 10.0, 316.80509758699765)
-[12:01:08] [Server thread/INFO]: Livier joined the game
-[12:21:12] [Server thread/WARN]: Fetching packet for removed entity awb['Cobblestone'/7103, l='world', x=192.73, y=11.02, z=293.85]
-[12:21:12] [Server thread/WARN]: Livier moved too quickly! 4.260188066952139,0.0,-9.241528813375567
-[12:22:01] [Server thread/INFO]: Livier lost connection: Disconnected
-[12:22:01] [Server thread/INFO]: Livier left the game
-[12:22:16] [Server thread/INFO]: Livier[/192.168.0.25:57523] logged in with entity id 7276 at (124.30000001192093, 72.0, 325.30000001192093)
-[12:22:16] [Server thread/INFO]: Livier joined the game
-[12:28:49] [Server thread/INFO]: Norband has made the advancement [Diamonds!]
-[12:32:37] [Server thread/INFO]: Livier lost connection: Disconnected
-[12:32:37] [Server thread/INFO]: Livier left the game
-[12:33:44] [Server thread/INFO]: Livier[/192.168.0.25:57940] logged in with entity id 10445 at (64.76580723455962, 63.0, 399.4481615303103)
-[12:33:44] [Server thread/INFO]: Livier joined the game
-[12:33:47] [Server thread/INFO]: Livier lost connection: Disconnected
-[12:33:47] [Server thread/INFO]: Livier left the game
-[12:34:11] [Server thread/INFO]: Livier[/192.168.0.25:57953] logged in with entity id 10575 at (64.76580723455962, 63.0, 399.4481615303103)
-[12:34:11] [Server thread/INFO]: Livier joined the game
-[12:45:47] [Server thread/INFO]: Livier lost connection: Disconnected
-[12:45:47] [Server thread/INFO]: Livier left the game
-[12:45:59] [Server thread/INFO]: Livier[/192.168.0.25:58174] logged in with entity id 13705 at (137.0699716510681, 56.0, 337.70831666872186)
-[12:45:59] [Server thread/INFO]: Livier joined the game
-[12:51:08] [Server thread/INFO]: Livier was blown up by Creeper
-[12:58:20] [Server thread/INFO]: Livier lost connection: Disconnected
-[12:58:20] [Server thread/INFO]: Livier left the game
-[12:58:49] [Server thread/INFO]: Livier[/192.168.0.25:58333] logged in with entity id 16666 at (90.69999998807907, 59.0, 360.2130452706455)
-[12:58:49] [Server thread/INFO]: Livier joined the game
-[14:22:05] [Server thread/INFO]: Livier lost connection: Timed out
-[14:22:05] [Server thread/INFO]: Livier left the game
-[14:22:24] [Server thread/INFO]: Livier[/192.168.0.25:59175] logged in with entity id 32601 at (65.53141845793411, 83.0, 413.5234832186173)
-[14:22:24] [Server thread/INFO]: Livier joined the game
-[14:29:19] [Server thread/INFO]: Livier lost connection: Disconnected
-[14:29:19] [Server thread/INFO]: Livier left the game
-[14:29:26] [Server thread/INFO]: Livier[/192.168.0.25:59231] logged in with entity id 34806 at (104.4203843188658, 64.0, 482.48717033308895)
-[14:29:26] [Server thread/INFO]: Livier joined the game
-[14:32:17] [Server thread/INFO]: Livier has made the advancement [The Parrots and the Bats]
-[14:44:23] [Server thread/INFO]: Made Livier a server operator
-[14:48:22] [Server thread/INFO]: [Livier: Gave 1 [Bee Spawn Egg] to Livier]
-[14:51:33] [Server thread/INFO]: Livier lost connection: Disconnected
-[14:51:33] [Server thread/INFO]: Livier left the game
-[14:51:41] [Server thread/INFO]: Livier[/192.168.0.25:59747] logged in with entity id 37923 at (83.45042683741974, 64.0, 358.03191806010324)
-[14:51:41] [Server thread/INFO]: Livier joined the game
-[14:54:17] [Server thread/INFO]: Livier lost connection: Timed out
-[14:54:17] [Server thread/INFO]: Livier left the game
-[14:54:17] [Server thread/INFO]: Livier[/192.168.0.35:59826] logged in with entity id 38438 at (168.5, 11.65, 332.50999999046326)
-[14:54:17] [Server thread/INFO]: Livier joined the game
-[14:57:58] [Server thread/INFO]: [Livier: Gave 1 [Bee Spawn Egg] to Livier]
-[15:09:37] [Server thread/INFO]: Norband lost connection: Disconnected
-[15:09:37] [Server thread/INFO]: Norband left the game
-[15:09:41] [Server thread/INFO]: Norband[/217.136.25.201:47802] logged in with entity id 40679 at (136.45839643551724, 42.0, 345.2743499399008)
-[15:09:41] [Server thread/INFO]: Norband joined the game
-[15:20:39] [Server thread/INFO]: Livier lost connection: Disconnected
-[15:20:39] [Server thread/INFO]: Livier left the game
-[15:20:47] [Server thread/INFO]: Livier[/192.168.0.35:54552] logged in with entity id 44660 at (492.53777898623997, 69.0, -155.12937619347684)
-[15:20:47] [Server thread/INFO]: Livier joined the game
-[15:25:31] [Server thread/INFO]: <Norband> 131; 314
-[15:28:05] [Server thread/INFO]: Livier has made the advancement [Ol' Betsy]
-[15:28:06] [Server thread/INFO]: Livier has made the advancement [Take Aim]
-[15:33:23] [Server thread/INFO]: Livier has reached the goal [Hired Help]
-[15:33:23] [Server thread/INFO]: Norband has reached the goal [Hired Help]
-[15:38:54] [Server thread/WARN]: Livier moved wrongly!
-[15:45:57] [Server thread/INFO]: Livier has made the advancement [Ice Bucket Challenge]
-[15:50:20] [Server thread/INFO]: Livier has made the advancement [We Need to Go Deeper]
-[16:02:34] [Server thread/WARN]: Livier moved wrongly!
-[16:14:02] [Server thread/INFO]: Livier lost connection: Disconnected
-[16:14:02] [Server thread/INFO]: Livier left the game
-[16:14:02] [Server thread/INFO]: Norband lost connection: Disconnected
-[16:14:02] [Server thread/INFO]: Norband left the game
-[18:59:49] [Server thread/INFO]: Unknown command
-[18:59:49] [Server thread/INFO]: <--[HERE]
-[18:59:50] [Server thread/INFO]: Unknown command
-[18:59:50] [Server thread/INFO]: <--[HERE]
-[18:59:51] [Server thread/INFO]: Unknown command
-[18:59:51] [Server thread/INFO]: <--[HERE]
-[18:59:52] [Server thread/INFO]: Stopping server
-[18:59:52] [Server thread/INFO]: Saving players
+[20:01:23] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[20:01:23] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20:01:23] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20:01:23] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[20:01:23] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20:01:23] [Server thread/INFO]: Starting minecraft server version 1.15.2
+[20:01:23] [Server thread/INFO]: Loading properties
+[20:01:23] [Server thread/INFO]: Default game type: SURVIVAL
+[20:01:23] [Server thread/INFO]: Generating keypair
+[20:01:23] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:01:23] [Server thread/INFO]: Using epoll channel type
+[20:01:24] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[20:01:24] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[20:01:24] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[20:01:24] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[20:01:24] [Server thread/INFO]: Preparing level "world"
+[20:01:24] [Server thread/INFO]: Reloading ResourceManager: Default
+[20:01:33] [Server thread/INFO]: Loaded 6 recipes
+[20:01:54] [Server thread/INFO]: Loaded 825 advancements
+[20:01:56] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:01:57] [Server thread/INFO]: Preparing spawn area: 0%
+[20:01:57] [Server thread/INFO]: Preparing spawn area: 0%
+[20:01:57] [Server thread/INFO]: Preparing spawn area: 0%
+[20:01:57] [Server thread/INFO]: Preparing spawn area: 0%
+[20:01:58] [Server thread/INFO]: Time elapsed: 2158 ms
+[20:01:58] [Server thread/INFO]: Done (34.135s)! For help, type "help"
+[20:01:58] [Server thread/INFO]: Livier[/85.201.84.5:49540] logged in with entity id 221 at (175.62623266290544, 12.0, 324.66277134201374)
+[20:01:58] [Server thread/INFO]: Livier joined the game
+[20:02:07] [Server thread/INFO]: Norband[/217.136.25.201:46744] logged in with entity id 269 at (201.90228825900869, 14.0, 282.4198562939492)
+[20:02:07] [Server thread/INFO]: Norband joined the game
+[20:02:47] [Server thread/INFO]: Livier has made the advancement [Bee Our Guest]
+[20:02:52] [Server thread/INFO]: Norband lost connection: Disconnected
+[20:02:52] [Server thread/INFO]: Norband left the game
+[20:02:59] [Server thread/INFO]: Norband[/217.136.25.201:46754] logged in with entity id 391 at (201.90228825900869, 14.0, 282.4198562939492)
+[20:02:59] [Server thread/INFO]: Norband joined the game
+[20:03:30] [Server thread/INFO]: Norband lost connection: Timed out
+[20:03:30] [Server thread/INFO]: Norband left the game
+[20:11:39] [Server thread/INFO]: Norband[/217.136.25.201:47736] logged in with entity id 1628 at (201.90228825900869, 14.0, 282.4198562939492)
+[20:11:39] [Server thread/INFO]: Norband joined the game
+[20:11:42] [Server thread/INFO]: Norband lost connection: Disconnected
+[20:11:42] [Server thread/INFO]: Norband left the game
+[20:12:46] [Server thread/INFO]: Norband[/217.136.25.201:47790] logged in with entity id 1789 at (201.90228825900869, 14.0, 282.4198562939492)
+[20:12:46] [Server thread/INFO]: Norband joined the game
+[20:13:05] [Server thread/INFO]: <Norband> coucou
+[20:15:40] [Server thread/INFO]: Norband lost connection: Disconnected
+[20:15:40] [Server thread/INFO]: Norband left the game
+[20:15:42] [Server thread/INFO]: Norband[/217.136.25.201:47820] logged in with entity id 2308 at (175.93205419336988, 12.0, 319.70548127274844)
+[20:15:42] [Server thread/INFO]: Norband joined the game
+[20:35:57] [Server thread/INFO]: Livier has made the advancement [Sticky Situation]
+[20:37:28] [Server thread/INFO]: Norband lost connection: Disconnected
+[20:37:28] [Server thread/INFO]: Norband left the game
+[20:37:31] [Server thread/INFO]: Livier lost connection: Disconnected
+[20:37:31] [Server thread/INFO]: Livier left the game
