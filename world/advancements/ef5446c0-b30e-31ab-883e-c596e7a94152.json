@@ -245,6 +245,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2020-03-28 20:08:14 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2020-03-21 17:48:16 +0100"
@@ -596,7 +602,8 @@
       "minecraft:creeper": "2020-03-21 17:45:50 +0100",
       "minecraft:cave_spider": "2020-03-21 19:23:28 +0100",
       "minecraft:zombie": "2020-03-21 17:24:34 +0100",
-      "minecraft:drowned": "2020-03-26 21:40:21 +0100"
+      "minecraft:drowned": "2020-03-26 21:40:21 +0100",
+      "minecraft:zombie_villager": "2020-03-28 21:07:31 +0100"
     },
     "done": false
   },
@@ -609,6 +616,12 @@
   "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
       "has_log": "2020-03-21 20:51:48 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2020-03-28 21:42:35 +0100"
     },
     "done": true
   },
@@ -1083,6 +1096,12 @@
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_iron_pickaxe": "2020-03-21 17:31:46 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab": {
+    "criteria": {
+      "has_smooth_sandstone": "2020-03-28 20:08:14 +0100"
     },
     "done": true
   },
@@ -1668,6 +1687,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2020-03-28 20:08:14 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2020-03-21 17:31:03 +0100"
@@ -2124,6 +2149,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs": {
+    "criteria": {
+      "has_smooth_sandstone": "2020-03-28 20:08:14 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2020-03-21 17:28:54 +0100"
@@ -2496,15 +2527,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
-    "criteria": {
-      "has_sandstone": "2020-03-26 21:55:52 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/acacia_trapdoor": {
     "criteria": {
       "has_planks": "2020-03-26 21:45:53 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2020-03-26 21:55:52 +0100"
     },
     "done": true
   },
